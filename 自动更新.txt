@@ -1,0 +1,10 @@
+app更新：      	https://github.com/markmarijnissen/cordova-app-loader 
+		http://www.tuicool.com/articles/YB3YruF
+		http://m.oschina.net/blog/465960
+		http://blog.csdn.net/binyao02123202/article/details/7955515
+
+使用svg矢量图：
+1、登录iconfont官方网站，账号密码
+2、将svg图标上传到项目中
+3、将下载下来的iconfont文件里面的iconfont.eot    iconfont.svg    iconfont.ttf    iconfont.woff
+放到www下面的ionic的fonts下面

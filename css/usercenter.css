@@ -1,0 +1,187 @@
+/**resume**/
+
+
+
+/**user-info**/
+.userinfo-wrap{
+    background-color: #fafafa;
+    padding: 145px 0 100px 0;
+}
+.ui-content{
+    background-color: #ffffff;
+    padding-top: 150px;
+}
+.ui-content-avtar{
+    height: 150px;
+    position: absolute;
+    top: -50px;
+    left: 100px;
+}
+.ui-content-avtar img{
+    margin-right: 40px;
+}
+.ui-content-avtar span{
+    color: #1a1a1a;
+    font-size: 18px;
+    vertical-align: 30px;
+}
+.ui-content-title{
+    border-bottom: 1px solid #e5e5e5;
+}
+.ui-content-title li{
+    float: left;
+    width: 100px;
+    height: 50px;
+    color: #666666;
+    text-align: center;
+    line-height: 50px;
+    font-size: 18px;
+}
+.ui-content-title .ui-content-titleselect{
+    background-color: #7a5e82;
+    color: #ffffff;
+}
+.ui-content-list{
+    padding: 0 15px 170px;
+}
+.ui-content-list .uic-sub{
+    height: 50px;
+    padding: 0 45px;
+    border-bottom: 1px solid #e5e5e5;
+}
+.uic-sub .uic-sub-info{
+    float: left;
+    font-size: 16px;
+    color: #999999;
+    vertical-align: middle;
+    line-height: 50px;
+}
+/*.uic-sub .uic-sub-slide{*/
+    /*float: right;*/
+/*}*/
+.uic-sub .uic-sub-slide span{
+    color: #999999;
+    font-size: 12px;
+    vertical-align: middle;
+    line-height: 50px;
+}
+.uic-sub .slide-up{
+    display: block;
+    float: right;
+    width: 40px;
+    height: 13px;
+    background: url("../img/top.png") center right no-repeat;
+    vertical-align: middle;
+    line-height: 50px;
+    font-style: normal;
+    font-size: 12px;
+}
+.uic-sub .uic-sub-slide .slide-down{
+    width: 7px;
+    height: 13px;
+    background: url("../img/down.png") center center no-repeat;
+    vertical-align: middle;
+    line-height: 50px;
+}
+.uic-sub-body{
+    background-color: #fafafa;
+    padding: 60px 0 60px 0;
+}
+.uic-sub-body .sub-body{
+    width: 610px;
+    margin: 0 auto;
+}
+.uic-sub-body .sub-body-btns{
+    width: 190px;
+    margin: 0 auto;
+}
+.uic-sub-body .sub-body .sub-body-line{
+    margin-bottom: 20px;
+}
+.uic-sub-body .sub-body .sub-body-line label{
+    width: 100px;
+    color: #7b7b7b;
+    font-size: 14px;
+    margin-right: 60px;
+    vertical-align: middle;
+}
+.uic-sub-body .sub-body .sub-body-line input{
+    outline: none;
+    border: 1px solid #e5e5e5;
+    width: 280px;
+    height: 40px;
+    margin-right: 60px;
+    vertical-align: middle;
+    padding: 0 10px;
+}
+.uic-sub-body .sub-body .sub-body-line span{
+    color: #999999;
+    font-size: 12px;
+}
+.uic-sub-body .sub-body .sub-body-line .btns-white{
+    color: #666666;
+    font-size: 12px;
+    width: 78px;
+    height: 38px;
+    line-height: 40px;
+    border: 1px solid #b3b3b3;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+.uic-sub-body .sub-body .sub-body-line .sex-selected{
+    background-color: #fce7d6;
+}
+.uic-sub-body .sub-body-btns a{
+    color: #666666;
+    font-size: 12px;
+    width: 78px;
+    height: 38px;
+    line-height: 40px;
+    border: 1px solid #b3b3b3;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+.uic-sub-body .sub-body-btns .btns-purple{
+    color: #ffffff;
+}
+
+.uic-sub-body .sub-body .sub-body-line .sub-body-lineverify{
+    width: 300px;
+    height: 40px;
+    border: 1px solid #e5e5e5;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    vertical-align: middle;
+    background-color: #ffffff;
+}
+.uic-sub-body .sub-body .sub-body-line .sub-body-lineverify div{
+    width: 200px;
+    padding: 0 10px;
+}
+.uic-sub-body .sub-body .sub-body-line .sub-body-lineverify div input{
+    outline: none;
+    border: none;
+    width: 180px;
+    padding: 0;
+}
+.uic-sub-body .sub-body .sub-body-line .sub-body-lineverify span{
+    line-height: 40px;
+    vertical-align: middle;
+}
+.uic-sub-body .sub-body-upload{
+    width: 500px;
+    margin: 0 auto 60px;
+}
+.uic-sub-body .sub-body-upload div{
+    vertical-align: middle;
+    margin-right: 40px;
+    width: 150px;
+    height: 150px;
+    background: #5a636a;
+}
+.uic-sub-body .sub-body-upload input{
+    vertical-align: middle;
+}

@@ -1,0 +1,103 @@
+/*login*/
+
+.bg-login{
+    background: url("../img/bg-login.jpg");
+}
+.bg-login h1{
+    text-indent: -999px;
+    margin: 38px 0 0 38px;
+}
+.bg-login .login-popup{
+    width: 350px;
+    height: 362px;
+    position: absolute;
+    top: 206px;
+    left: 918px;
+    /*right:0;*/
+    background: #ffffff;
+    opacity: 0.5;
+}
+.login-popup .login-content{
+    width: 270px;
+    margin: 0 auto;
+    padding-top: 90px;
+}
+.login-popup .login-content .login-account em{
+    width: 28px;
+    height: 28px;
+    background: #48434a url(../img/login-account-icon.png);
+    float: left;
+}
+.login-popup .login-content .login-password em{
+    width: 28px;
+    height: 28px;
+    background: #48434a url(../img/login-password-icon.png) center center no-repeat;
+    float: left;
+}
+.login-popup .login-content .login-account input{
+    background: #ffffff;
+    width: 200px;
+    height: 28px;
+    padding: 0 17px;
+    outline: none;
+    border: none;
+}
+.login-popup .login-content .login-password input{
+    background: #ffffff;
+    width: 200px;
+    height: 28px;
+    padding: 0 17px;
+    outline: none;
+    border: none;
+}
+.login-popup .login-content .login-tab{
+    padding: 0 20px;
+    line-height: 54px;
+}
+.login-popup .login-content .login-tab a{
+    color: #7a5e82;
+}
+.login-popup .login-content .login-button{
+    display: block;
+    height: 28px;
+    background: #7a5e82;
+    font-size: 18px;
+    color: #ffffff;
+    text-align:center;
+    line-height: 28px;
+    clear: both;
+}
+
+
+/*login-findpwd*/
+.login-popup .login-content .login-mobile em{
+    width: 28px;
+    height: 28px;
+    background: #48434a url(../img/login-mobile.png) center center no-repeat;
+    float: left;
+}
+.login-popup .login-content .login-mobile input{
+    background: #ffffff;
+    width: 200px;
+    height: 28px;
+    padding: 0 17px;
+    outline: none;
+    border: none;
+}
+.login-popup .login-content .login-verify em{
+    width: 28px;
+    height: 28px;
+    background: #48434a url(../img/login-verify.png) center center no-repeat;
+    float: left;
+}
+.login-popup .login-content .login-verify input{
+    background: #ffffff;
+    width: 200px;
+    height: 28px;
+    padding: 0 17px;
+    outline: none;
+    border: none;
+}
+.login-popup .login-content .login-cfmpwd em{
+    background: #48434a url(../img/login-cfmpwd.png) center center no-repeat;
+}
